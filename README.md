@@ -12,6 +12,8 @@
 
 ### 4- [Payment Application](https://github.com/boliskaram/Payment_Application)
 
+### 5- [LED Sequence ](https://github.com/boliskaram/LED_Sequence_Using_DIO_only)
+
 
 
 
