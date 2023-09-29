@@ -1,6 +1,4 @@
 # Sprints
-# Bolis Karam
-# Embedded-System-Program
 
 ## Projects
 
